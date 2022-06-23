@@ -1,0 +1,22 @@
+{
+    "name": "clarity-theme",
+    "displayName": "Clarity Theme (Dark)",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "Nutan Gwari",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Clarity (Dark)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/clarity-color-theme.json"
+            }
+        ]
+    }
+}

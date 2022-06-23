@@ -1,2 +1,3 @@
-# clarity-theme
-Clarity Theme (Dark)
+# Clarity Dark Theme
+
+
