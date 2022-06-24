@@ -1,7 +1,7 @@
 {
     "name": "clarity-theme",
     "displayName": "Clarity Theme (Dark)",
-    "description": "Dark theme basaed on Clarity Design System",
+    "description": "Based on clarity design system, theme is the best clarity theme available.",
     "version": "0.0.2",
     "publisher": "NutanGwari",
     "engines": {
