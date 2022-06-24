@@ -2,7 +2,7 @@
     "name": "clarity-theme",
     "displayName": "Clarity Theme (Dark)",
     "description": "Based on clarity design system, theme is the best clarity theme available.",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "NutanGwari",
     "engines": {
         "vscode": "^1.68.0"
