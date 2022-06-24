@@ -1,6 +1,6 @@
 # Clarity Dark Theme
 
-** Based on clarity design system (CDS), this dark theme is most complete CDS based theme. Currently theme is only supported for the dark mode.
+*Based on clarity design system (CDS), this dark theme is most complete CDS based theme. Currently theme is only supported for the dark mode.*
 
 > Clarity Dark for [Visual Studio Code](http://code.visualstudio.com)
 
