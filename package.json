@@ -1,15 +1,24 @@
 {
     "name": "clarity-theme",
     "displayName": "Clarity Theme (Dark)",
-    "description": "",
+    "description": "Dark theme basaed on Clarity Design System",
     "version": "0.0.1",
-    "publisher": "Nutan Gwari",
+    "publisher": "NutanGwari",
     "engines": {
         "vscode": "^1.68.0"
+    },
+    "repository": {
+        "directory": "https://github.com/nutangwari/clarity-theme.git"
     },
     "categories": [
         "Themes"
     ],
+    "icon": "assets/logo.png",
+    "galleryBanner": {
+        "color": "#18242b",
+        "theme": "dark"
+    },
+    "keywords": ["Clarity Theme", "Dark Theme", "Theme", "Blue Theme"],
     "contributes": {
         "themes": [
             {
