@@ -2,7 +2,7 @@
     "name": "clarity-theme",
     "displayName": "Clarity Theme (Dark)",
     "description": "Dark theme basaed on Clarity Design System",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "NutanGwari",
     "engines": {
         "vscode": "^1.68.0"
@@ -18,7 +18,12 @@
         "color": "#18242b",
         "theme": "dark"
     },
-    "keywords": ["Clarity Theme", "Dark Theme", "Theme", "Blue Theme"],
+    "keywords": [
+        "Clarity Theme",
+        "Dark Theme",
+        "Theme",
+        "Blue Theme"
+    ],
     "contributes": {
         "themes": [
             {
