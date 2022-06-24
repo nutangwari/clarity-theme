@@ -4,7 +4,7 @@
 
 > Clarity Dark for [Visual Studio Code](http://code.visualstudio.com)
 
-![Screenshot](https://user-images.githubusercontent.com/9932923/175463285-d5abbd75-73cf-46e8-81a9-8fc51f00ae70.png)
+![Screenshot](https://user-images.githubusercontent.com/9932923/175464899-4f33acf8-f13b-4e8a-b4a8-404755114fb4.png)
 
 
 ## License
