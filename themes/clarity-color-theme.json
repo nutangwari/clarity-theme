@@ -2,18 +2,16 @@
 	"name": "nutangwari",
 	"colors": {
 
-		// global defaults (can be overridedd by sections)
 		"icon.foreground": "#bcebff",
 		"window.activeBorder": "#4baed9",
 
-		// activity bar :: left most view toggle bar
 		"activityBarBadge.background": "#F1428A",
 		"activityBar.background": "#18242b",
 		"activityBar.foreground": "#4baed9",
 		"activityBar.activeBackground": "#141c1f",
 		"activityBar.inactiveForeground": "#2d5d72",
 
-		"badge.background": "#912c56",
+		"badge.background": "#F1428A",
 
 		"banner.background": "#18242b",
 
@@ -38,9 +36,9 @@
 
 		"editor.background": "#18242b",
 		"editor.foreground": "#ccc",
-		// "editorCursor.foreground": "#4baed9",
-		// "editorLineNumber.foreground": "#4b6876",
-		// "editorLineNumber.activeForeground": "#4baed9",
+		"editorCursor.foreground": "#4baed9",
+		"editorLineNumber.foreground": "#4b6876",
+		"editorLineNumber.activeForeground": "#4baed9",
 		"editorGroupHeader.tabsBackground": "#18242b",
 		"editorGroupHeader.border": "#3e5b6c",
 		"editorCodeLens.foreground": "#4d7f94",
@@ -48,16 +46,13 @@
 		"editorWidget.foreground": "#f1f1f1",
 
 
-		// git tab changes
 		"gitDecoration.modifiedResourceForeground": "#4baed9",
 
 
-		// file directory structure
 		"list.activeSelectionBackground": "#18242b",
 		"list.activeSelectionForeground": "#4baed9",
 		"list.hoverBackground": "#18242b",
 
-		// notification toast, shows in right bottom corner
 		"notifications.background": "#1b2b32",
 		"notifications.foreground": "#ccc",
 		"notificationLink.foreground": "#4baed9",
@@ -65,7 +60,6 @@
 		"panelTitle.activeBorder": "#4baed9",
 		"panelTitle.activeForeground": "#54c3f2",
 
-		// quick input panel cmd+p
 		"quickInput.background": "#1b2b32",
 		"quickInput.foreground": "#5f879f",
 		"quickInputList.focusBackground": "#18242b",
@@ -73,7 +67,6 @@
 		"keybindingLabel.background": "#4baed9",
 		"keybindingLabel.foreground": "#000",
 
-		// bottom strip with details
 		"statusBar.background": "#4baed9",
 		"statusBar.border": "#4baed9",
 
@@ -83,13 +76,11 @@
 		"sideBarSectionHeader.foreground": "#4baed9",
 		"sideBar.foreground": "#c3ebfc",
 
-		// Scrollbar
 		"scrollbarSlider.background": "#4baed98f",
 		"scrollbarSlider.hoverBackground": "#4baed9",
 		"scrollbarSlider.activeBackground": "#2e9ccc",
 		"scrollbar.shadow": "#2e9ccc",
 
-		// settings page under preferences
 		"settings.dropdownBackground": "#18242b",
 		"settings.dropdownForeground": "#4baed9",
 		"settings.dropdownBorder": "#4baed9",
@@ -97,15 +88,13 @@
 		"settings.textInputBackground": "#18242b",
 		"settings.checkboxBackground": "#18242b",
 		"settings.checkboxForeground": "#4baed9",
-		"settings.focusedRowBackground": "#1b2b32", //alternate background
+		"settings.focusedRowBackground": "#1b2b32",
 
-		// tab :: top bar open tabs
 		"tab.activeBackground": "#18242b",
 		"tab.inactiveBackground": "#21333b",
 		"tab.activeForeground": "#c6edfe",
 		"tab.inactiveForeground": "#3f97bd",
 		"tab.activeBorderTop": "#4baed9",
-		// "tab.activeBorder": "#4baed9",
 
 		"terminal.foreground": "#4baed9",
 
